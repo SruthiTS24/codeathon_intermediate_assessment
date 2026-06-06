@@ -53,7 +53,7 @@ R² Score, Mean Squared Error (MSE), Mean Absolute Error (MAE)
 | Linear Regression | 0.8951 | 8,283,565.72 | 1,942.07 |
 | SVR | -0.1008 | 86,898,072.68 | 5,701.89 |
 
-✅ **Best Model: Random Forest Regressor** — highest R² and lowest MAE across all models.
+**Best Model: Random Forest Regressor** — highest R² and lowest MAE across all models.
 
 ---
 
