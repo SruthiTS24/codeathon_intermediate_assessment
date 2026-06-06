@@ -47,11 +47,11 @@ R² Score, Mean Squared Error (MSE), Mean Absolute Error (MAE)
 
 | Model | R² | MSE | MAE |
 |---|---|---|---|
-| **Random Forest** | **0.9577** | **3,343,086.97** | **$1,285.09** |
-| Gradient Boosting | 0.9281 | 5,678,838.06 | $1,681.26 |
-| Decision Tree | 0.9022 | 7,722,717.65 | $1,935.27 |
-| Linear Regression | 0.8951 | 8,283,565.72 | $1,942.07 |
-| SVR | -0.1008 | 86,898,072.68 | $5,701.89 |
+| **Random Forest** | **0.9577** | **3,343,086.97** | **1,285.09** |
+| Gradient Boosting | 0.9281 | 5,678,838.06 | 1,681.26 |
+| Decision Tree | 0.9022 | 7,722,717.65 | 1,935.27 |
+| Linear Regression | 0.8951 | 8,283,565.72 | 1,942.07 |
+| SVR | -0.1008 | 86,898,072.68 | 5,701.89 |
 
 ✅ **Best Model: Random Forest Regressor** — highest R² and lowest MAE across all models.
 
@@ -82,8 +82,8 @@ n_estimators=300, max_depth=10, min_samples_split=2, min_samples_leaf=1
 
 | Model | R² | MAE |
 |---|---|---|
-| Baseline | 0.9577 | $1,285.09 |
-| Tuned | 0.9585 | $1,222.09 |
+| Baseline | 0.9577 | 1,285.09 |
+| Tuned | 0.9585 | 1,222.09 |
 
 ---
 
